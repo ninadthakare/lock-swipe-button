@@ -1,4 +1,4 @@
-package com.neosoft.swipebutton.views;
+package com.neosoft.swipe_button;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -20,8 +20,6 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
-import com.neosoft.swipebutton.R;
 
 public class SwipeButton extends RelativeLayout implements View.OnTouchListener {
 
